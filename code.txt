@@ -1,0 +1,11 @@
+sudo su
+cd /
+yum install httpd -y
+systemctl start httpd
+systemcl enable httpd
+cd /var/www/html
+nano index.html
+
+
+
+Hudl India Private Limited's Corporate Identification Number is (CIN) U74120MH2012PTC228574 and its registration number is 228574.Its Email address is kari.schmitz@hudl.com and its registered address is 1501,15th Floor,Aston Building,Sundervan Complex Shastri Nagar,Lokhandwala Road,Oshiwara,Andheri(W) Mumbai Mumbai City MH 400053 IN
